@@ -3,7 +3,7 @@
   "_type": "command",
   "definition": {
     "commandName": "addninjaxp",
-    "permissionLevel": "2",
+    "permissionLevel": "4",
     "onCommandExecuted": {
       "name": "AddNinjaXpCommandExecuted"
     }
